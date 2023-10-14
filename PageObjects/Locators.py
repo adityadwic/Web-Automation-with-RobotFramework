@@ -1,0 +1,20 @@
+#Login Page Elements
+txt_loginUserName = "name:userName"
+txt_loginPassword = "name:password"
+btn_signIn = "name:submit"
+
+#Registration Page Element
+link_reg = "link:REGISTER"
+txt_firstName = "name:firstName"
+txt_lastName = "name:lastName"
+txt_phone = "name:phone"
+txt_email = "id:userName"
+txt_address = "name:address1"
+txt_city = "name:city"
+txt_state = "name:state"
+txt_postalCode = "name:postalCode"
+drp_country = "name:country"
+txt_userName = "name:email"
+txt_passwrod = "name:password"
+txt_confirmPassword = "name:confirmPassword"
+btn_SubmitRegist = "name:confirmPassword"

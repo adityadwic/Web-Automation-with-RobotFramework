@@ -1,3 +1,7 @@
 node_modules
 *.xml
 *.log
+.json
+env.json
+.html
+log.html
